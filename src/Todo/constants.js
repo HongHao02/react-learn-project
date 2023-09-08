@@ -1,0 +1,6 @@
+export const ADD_JOB = 'add_job'
+export const SET_JOB = 'set_job'
+export const DELETE_JOB = 'delete_job'
+export const CLEAR_CHECKED = 'clear_checked'
+export const SET_CHECKED = 'set_checked'
+export const DONE_JOB = 'done_job'

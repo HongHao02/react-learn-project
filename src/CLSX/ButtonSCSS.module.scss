@@ -1,0 +1,30 @@
+.btn {
+    padding: auto;
+    border-radius: 5px 0 5px 0;
+
+    &:hover {
+        cursor: pointer;
+        background-color: bisque;
+    }
+
+    &:disabled {
+        opacity: 0.5;
+        cursor: default;
+        pointer-events: none;
+        
+    }
+}
+
+.active {
+    background-color: rgb(145, 97, 223);
+}
+
+
+
+.primary {
+    background-color: #0d6efd;
+}
+
+.secondary {
+    background-color: #6c757d;
+}

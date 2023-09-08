@@ -1,0 +1,17 @@
+
+.btn{
+    padding: auto;
+    border-radius: 5px 0 5px 0;
+}
+
+.active{
+    background-color: aqua;
+}
+
+.primary{
+    background-color: #0d6efd;
+}
+
+.secondary{
+    background-color: #6c757d;
+}
